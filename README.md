@@ -7,7 +7,7 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
 <p align="center">
   <a href="https://stackexchange.com/users/1548427"><img src="https://stackexchange.com/users/flair/1548427.png?theme=dark" width="208" height="58" alt="profile for Yohn on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Yohn on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
   <br><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yohn&theme=darkhub" alt="Trophy"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yohn&theme=darkhub&column=7" alt="Trophy"></a>
 </p>
 
 <p align="center">
