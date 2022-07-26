@@ -11,7 +11,11 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Yohn&show_icons=true&theme=github_dark&count_private=true"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Yohn&show_icons=true&theme=github_dark&count_private=true&hide_border=true"></a>
+</p>
+
+<p align="center">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Yohn&theme=github-dark-blue&hide_border=true"></a>
 </p>
 
 
