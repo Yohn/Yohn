@@ -14,12 +14,13 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics/plugin.default.example.svg
           token: ${{ secrets.METRICS_TOKEN }}
           
       - uses: lowlighter/metrics@latest
         name: Compact display
         with:
-          filename: metrics.plugin.achievements.compact.svg
+          filename: metrics/plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_achievements: yes
