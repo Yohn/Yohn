@@ -14,9 +14,9 @@ jobs:
     steps:
       - name: Metrics embed
         uses: lowlighter/metrics@v3.26
-#        with:
+        with:
 #          filename: metrics/plugin.default.example.svg
-#          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
 
 #      - uses: lowlighter/metrics@latest
 #        with:
