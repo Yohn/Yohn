@@ -37,3 +37,12 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
+          
+      - uses: lowlighter/metrics@latest
+        name: Recently starred
+        with:
+          filename: metrics/plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 5
