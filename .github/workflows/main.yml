@@ -29,3 +29,11 @@ jobs:
             scripter, packager, explorer, infographile, manager
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
+          
+      - uses: lowlighter/metrics@latest
+        name: Half-year calendar
+        with:
+          filename: metrics/plugin.half-year-isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
