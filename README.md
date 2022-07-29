@@ -17,6 +17,9 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
     <a href="https://github.com/ryo-ma/github-profile-trophy">
      <img src="https://github-profile-trophy.vercel.app/?username=Yohn&margin-w=15&margin-h=15&theme=darkhub&column=4&text_color=ff6723&no-frame=true" alt="Trophy">
     </a>
+     <br>
+     <br>
+     <a href="https://github.com/lowlighter/metrics"><img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.achievements.compact.svg"></a>
    </td>
    <td>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -27,6 +30,9 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
      <br>
      <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yohn&layout=compact&theme=github_dark&hide_border=true&custom_title=Recently%20Used%20Languages">
+      <br>
+      <br>
+      <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics/plugin.default.example.svg"></a>
      </a>
    </td>
  </tr>
