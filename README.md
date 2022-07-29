@@ -19,12 +19,22 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
     </a>
      <br>
      <br>
-     <a href="https://github.com/lowlighter/metrics"><img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.achievements.compact.svg"></a>
+     <a href="https://github.com/lowlighter/metrics">
+      <img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.achievements.compact.svg">
+     </a>
+     <br>
+     <br>
+      <a href="https://github.com/lowlighter/metrics"><img src="https://github.com/Yohn/Yohn/blob/main/metrics/plugin.stars.svg"></a>
    </td>
    <td>
     <a href="https://github.com/anuraghazra/github-readme-stats">
      <img src="https://github-readme-stats.vercel.app/api?username=Yohn&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&include_all_commits=true&custom_title=Yohn%27s%20GitHub%20Stats">
     </a>
+      <br>
+      <br>
+      <a href="https://github.com/lowlighter/metrics">
+       <img src="https://github.com/Yohn/Yohn/blob/main/metrics/plugin.half-year-isocalendar.svg">
+      </a>
     <br>
      <br>
      <br>
