@@ -46,3 +46,13 @@ jobs:
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 5
+
+      - uses: lowlighter/metrics@latest
+        name: Indepth analysis
+        with:
+          filename: metrics/plugin.notable.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
