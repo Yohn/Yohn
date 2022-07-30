@@ -78,7 +78,7 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-	  config_timezone: America/New_York
+          config_timezone: America/New_York
           
       - name: Opened by Yohn
         uses: lowlighter/metrics@latest
