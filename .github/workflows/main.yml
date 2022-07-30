@@ -85,7 +85,7 @@ jobs:
           base: ""
           plugin_followup: yes
           plugin_followup_sections: user
-          plugin_followup_ind epth: yes
+          plugin_followup_indepth: yes
           
       - name: Fortune
         uses: lowlighter/metrics@latest
