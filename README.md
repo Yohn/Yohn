@@ -56,6 +56,11 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
      </a>
    </td>
  </tr>
+ <tr>
+    <td colspan="2" align="center">
+    <a href="https://github.com/piyushsuthar/github-readme-quotes" title="Readme Quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a>
+    </td>
+</tr>
 </table>
 
 
