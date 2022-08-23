@@ -1,0 +1,98 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/plugin.default.example.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+      - uses: lowlighter/metrics@latest
+        name: Compact display
+        with:
+          filename: metrics/plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          
+      - uses: lowlighter/metrics@latest
+        name: Half-year calendar
+        with:
+          filename: metrics/plugin.half-year-isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+          
+      - uses: lowlighter/metrics@latest
+        name: Recently starred
+        with:
+          filename: metrics/plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 5
+          
+      - uses: lowlighter/metrics@latest
+        name: Contributions
+        with:
+          filename: metrics.plugin.notable.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+        
+      - uses: lowlighter/metrics@latest
+        name: Random Habit Facts 
+        with:
+          filename: metrics/plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: America/New_York
+          
+      - name: Opened by Yohn
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/plugin.followup.user.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_followup_indepth: yes
+          
+      - name: Fortune
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/plugin.fortune.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_fortune: yes
+          
+          
+          
+      - uses: lowlighter/metrics@latest
+        name: Midly interesting facts
+        with:
+          filename: metrics/plugin.notable.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+          #name: Midly interesting facts
