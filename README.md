@@ -25,37 +25,33 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
     <a href="https://git.io/streak-stats">
      <img src="https://github-readme-streak-stats.herokuapp.com?user=Yohn&theme=github-dark-blue&hide_border=true&stroke=4b8dda&ring=ff6723&fire=ffb02e&currStreakNum=dd5018&dates=a74816&sideLabels=4b8dda&sideNums=ff6723&currStreakLabel=4b8dda">
     </a>
-     <br>
-     <br>
-     <br>
+		</td>
+		<td>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+     <img src="https://github-readme-stats.vercel.app/api?username=Yohn&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&include_all_commits=true&custom_title=Yohn%27s%20GitHub%20Stats">
+    </a></td></tr>
+		<tr><td>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
      <img src="https://github-profile-trophy.vercel.app/?username=Yohn&margin-w=15&margin-h=15&theme=darkhub&column=4&text_color=ff6723&no-frame=true" alt="Trophy">
-    </a>
-     <br>
-     <br>
+    </a></td>
+		<td>
      <a href="https://github.com/lowlighter/metrics">
       <img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.achievements.compact.svg">
      </a>
-     <br>
-     <br>
-      <a href="https://github.com/lowlighter/metrics"><img src="https://github.com/Yohn/Yohn/blob/main/metrics/plugin.stars.svg"></a>
+		 </td></tr>
+		 <tr><td>
+      <a href="https://github.com/lowlighter/metrics">
+       <img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics/plugin.half-year-isocalendar.svg">
+      </a>
    </td>
    <td>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api?username=Yohn&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&include_all_commits=true&custom_title=Yohn%27s%20GitHub%20Stats">
-    </a>
-      <br>
-      <br>
-      <a href="https://github.com/lowlighter/metrics">
-       <img src="https://github.com/Yohn/Yohn/blob/main/metrics/plugin.half-year-isocalendar.svg">
-      </a>
-    <br>
-     <br>
-     <br>
-     <a href="https://github.com/anuraghazra/github-readme-stats">
+	 <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yohn&layout=compact&theme=github_dark&hide_border=true&custom_title=Recently%20Used%20Languages&hide=other">
-      <br>
-      <br>
+			</a>
+			</td></tr>
+			<tr><td>
+      <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics/plugin.stars.svg"></a>
+      </td><td>
       <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics/plugin.default.example.svg"></a>
      </a>
    </td>
