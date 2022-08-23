@@ -8,7 +8,7 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/lowlighter/metrics"><img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.notable.indepth.svg"></a>
+      <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics.plugin.notable.svg"></a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
