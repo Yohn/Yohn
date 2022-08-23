@@ -1,10 +1,18 @@
 
- ## July 8th 2022
-
-Finally dedicated some time to learning more about Git, and how to push changes to Github. 
+<!--table><tr><td>-->
+<h3>July 8th 2022</h3>
+<p>Finally dedicated some time to learning more about Git, and how to push changes to Github. 
 I've been coding for 17+ years but and never knew what this new "Source Control" thing was all about, and now I gotta ask myself why I didnt look into it sooner.
+</p>
+<p align="center"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel"> </p>
+<!--</td><td width="40%">
+<img title="MyAwesomeWebDevStack" src="https://awesome-stack.glitch.me/api/v1/cards?name=yohn&repos=jsgandalf,vue-generator-graph,awesome-stack&theme=dark">
+</td></tr></table>-->
 
-<br>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Yohn/Yohn/snake/github-contribution-grid-snake-dark.svg">
+</p>
 <table>
   <tr>
     <td align="center" width="50%">
@@ -58,12 +66,15 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
  </tr>
  <tr>
     <td colspan="2" align="center">
-    <a href="https://github.com/piyushsuthar/github-readme-quotes" title="Readme Quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a>
+    
+<img src="https://activity-graph.herokuapp.com/graph?username=Yohn&theme=react-dark&hide_border=true&area=true">
+    <!--a href="https://github.com/piyushsuthar/github-readme-quotes" title="Readme Quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a-->
     </td>
 </tr>
 </table>
 
-<p align="center"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&amp;logo=javascript&amp;logoColor=%23F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&amp;logo=jquery&amp;logoColor=white" alt="jQuery"> <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&amp;logo=SASS&amp;logoColor=white" alt="SASS"> <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&amp;logo=apache&amp;logoColor=white" alt="Apache"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&amp;logo=markdown&amp;logoColor=white" alt="Markdown"> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white" alt="PHP"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel"> </p>
+
+
 <!--*Yohn/Yohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your github_dar]
 
 Here are some ideas to get you started:
