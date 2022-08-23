@@ -109,6 +109,6 @@ jobs:
       - uses: crazy-max/ghaction-github-pages@v2.1.3
         with:
           target_branch: snake
-          build_dir: dist
+          build_dir: metrics
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
