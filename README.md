@@ -88,3 +88,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> “If you like what you do, and you’re lucky enough to be good at it, do it for that reason.”
+— Phil Grimshaw
