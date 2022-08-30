@@ -91,4 +91,8 @@ Here are some ideas to get you started:
 
 > “If you like what you do, and you’re lucky enough to be good at it, do it for that reason.”
 — Phil Grimshaw
+
 > I have a joke about Stack Overflow, but you would say it's a duplicate.
+
+> What do you call a developer who doesn't comment code? • • • A developer.
+
