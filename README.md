@@ -73,8 +73,6 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
 </tr>
 </table>
 
-
-
 <!--*Yohn/Yohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your github_dar]
 
 Here are some ideas to get you started:
