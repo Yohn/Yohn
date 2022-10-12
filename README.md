@@ -95,3 +95,4 @@ Here are some ideas to get you started:
 
 > What do you call a developer who doesn't comment code? • • • A developer.
 
+> “The person responsible doesn’t work here anymore.”
