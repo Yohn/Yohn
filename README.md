@@ -25,9 +25,8 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
       </a>
 	  </td>
   </tr>
-	  <td align="center" width="100%" colspan="2">
-      <img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.fortune.svg">
-    </td>
+<td align="center"><img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.fortune.svg"></td>
+<td align="center" width="50%"><!-- HTML --><img src="https://readme-jokes.vercel.app/api?hideborder&theme=gotham" alt="Jokes Card" /></td>
   </tr>
   <tr>
     <td>
