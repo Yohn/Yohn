@@ -61,16 +61,20 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
       <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics/plugin.stars.svg"></a>
       </td><td>
       <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics/plugin.default.example.svg"></a>
-     </a>
-   </td>
- </tr>
- <tr>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td colspan="2" align="center">
-    
-<img src="https://activity-graph.herokuapp.com/graph?username=Yohn&theme=react-dark&hide_border=true&area=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Yohn&theme=react-dark&hide_border=true&area=true">
     <!--a href="https://github.com/piyushsuthar/github-readme-quotes" title="Readme Quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a-->
     </td>
 </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics.plugin.screenshot.svg"></a>
+    </td>
+  </tr>
 </table>
 
 <!--*Yohn/Yohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your github_dar]
