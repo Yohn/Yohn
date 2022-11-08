@@ -16,6 +16,17 @@ jobs:
         with:
           filename: metrics/plugin.default.example.svg
           token: ${{ secrets.METRICS_TOKEN }}
+      
+      - uses: lowlighter/metrics@latest
+        name: Daily Horoscope
+        with:
+          filename: metrics.plugin.horoscope.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Daily Horoscope
+          plugin_screenshot_url: https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=10
+          plugin_screenshot_selector: ".main-horoscope nav + p"
           
       - uses: lowlighter/metrics@latest
         name: Compact display
@@ -96,15 +107,16 @@ jobs:
           #name: Midly interesting facts
 
       - uses: lowlighter/metrics@latest
-        name: XKCD of the day
+        name: Comic of the day
         with:
           filename: metrics.plugin.screenshot.svg
           token: NOT_NEEDED
           base: ""
           plugin_screenshot: yes
-          plugin_screenshot_title: XKCD of the day
+          plugin_screenshot_title: Comic of the day
           plugin_screenshot_url: https://xkcd.com
           plugin_screenshot_selector: "#comic img"
+      
   
   build:
     name: Jobs to update datas
