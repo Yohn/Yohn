@@ -16,37 +16,50 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
 </p>
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics.plugin.notable.svg"></a>
+    <td colspan="2" align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Yohn&theme=react-dark&hide_border=true&area=true">
+    <!--a href="https://github.com/piyushsuthar/github-readme-quotes" title="Readme Quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a-->
     </td>
+</tr>
+  <tr>
     <td align="center" width="50%">
       <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
         <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/1441372?theme=dark&website=true&location=true" alt="user:1441372's SO profile">
       </a>
-	  </td>
+    </td>
+    <td align="center" width="50%"><img src="https://readme-jokes.vercel.app/api?hideborder&theme=gotham" alt="Jokes Card" /></td>
   </tr>
-<td align="center"><img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.fortune.svg"></td>
-<td align="center" width="50%"><!-- HTML --><img src="https://readme-jokes.vercel.app/api?hideborder&theme=gotham" alt="Jokes Card" /></td>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics.plugin.notable.svg"></a>
+      <a href="https://github.com/lowlighter/metrics"><img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.fortune.svg"></a>
+    </td>
+    <td align="center"><a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics/plugin.horoscope.svg"></a></td>
   </tr>
   <tr>
     <td>
-    <a href="https://git.io/streak-stats">
-     <img src="https://github-readme-streak-stats.herokuapp.com?user=Yohn&theme=github-dark-blue&hide_border=true&stroke=4b8dda&ring=ff6723&fire=ffb02e&currStreakNum=dd5018&dates=a74816&sideLabels=4b8dda&sideNums=ff6723&currStreakLabel=4b8dda">
-    </a>
-		</td>
-		<td>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-     <img src="https://github-readme-stats.vercel.app/api?username=Yohn&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&include_all_commits=true&custom_title=Yohn%27s%20GitHub%20Stats">
-    </a></td></tr>
-		<tr><td>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=Yohn&margin-w=15&margin-h=15&theme=darkhub&column=4&text_color=ff6723&no-frame=true" alt="Trophy">
-    </a></td>
-		<td>
-     <a href="https://github.com/lowlighter/metrics">
-      <img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.achievements.compact.svg">
-     </a>
-		 </td></tr>
+      <a href="https://git.io/streak-stats">
+       <img src="https://github-readme-streak-stats.herokuapp.com?user=Yohn&theme=github-dark-blue&hide_border=true&stroke=4b8dda&ring=ff6723&fire=ffb02e&currStreakNum=dd5018&dates=a74816&sideLabels=4b8dda&sideNums=ff6723&currStreakLabel=4b8dda">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Yohn&show_icons=true&theme=github_dark&count_private=true&hide_border=true&layout=compact&include_all_commits=true&custom_title=Yohn%27s%20GitHub%20Stats">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Yohn&margin-w=15&margin-h=15&theme=darkhub&column=4&text_color=ff6723&no-frame=true" alt="Trophy">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/lowlighter/metrics">
+        <img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.achievements.compact.svg">
+      </a>
+    </td>
+  </tr>
 		 <tr><td>
       <a href="https://github.com/lowlighter/metrics">
        <img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics/plugin.half-year-isocalendar.svg">
@@ -64,12 +77,6 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
       </a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-    <img src="https://activity-graph.herokuapp.com/graph?username=Yohn&theme=react-dark&hide_border=true&area=true">
-    <!--a href="https://github.com/piyushsuthar/github-readme-quotes" title="Readme Quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a-->
-    </td>
-</tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics.plugin.screenshot.svg"></a>
