@@ -1,0 +1,24 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  #schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        name: Daily Horoscope
+        with:
+          filename: metrics.plugin.horoscope.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Daily Horoscope
+          plugin_screenshot_url: https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=10
+          plugin_screenshot_selector: ".main-horoscope nav + p"
