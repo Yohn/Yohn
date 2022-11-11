@@ -19,16 +19,16 @@ jobs:
           filename: metrics/plugin.default.example.svg
           token: ${{ secrets.METRICS_TOKEN }}
       
-      - uses: lowlighter/metrics@latest
-        name: Daily Horoscope
-        with:
-          filename: metrics.plugin.horoscope.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_screenshot: yes
-          plugin_screenshot_title: Daily Horoscope
-          plugin_screenshot_url: https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=10
-          plugin_screenshot_selector: ".main-horoscope nav + p"
+      #- uses: lowlighter/metrics@latest
+      #  name: Daily Horoscope
+      #  with:
+      #    filename: metrics.plugin.horoscope.svg
+      #    token: NOT_NEEDED
+      #    base: ""
+      #    plugin_screenshot: yes
+      #    plugin_screenshot_title: Daily Horoscope
+      #    plugin_screenshot_url: https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=10
+      #    plugin_screenshot_selector: ".main-horoscope nav + p"
           
       - uses: lowlighter/metrics@latest
         name: Compact Display
