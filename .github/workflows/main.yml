@@ -25,11 +25,11 @@ jobs:
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Daily Horoscope
-          plugin_screenshot_url: https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=10
+          plugin_screenshot_url: https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=10
           plugin_screenshot_selector: ".main-horoscope nav + p"
           
       - uses: lowlighter/metrics@latest
-        name: Compact display
+        name: Compact Display
         with:
           filename: metrics/plugin.achievements.compact.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -42,7 +42,7 @@ jobs:
           plugin_achievements_threshold: X
           
       - uses: lowlighter/metrics@latest
-        name: Half-year calendar
+        name: Half-year Calendar
         with:
           filename: metrics/plugin.half-year-isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -50,7 +50,7 @@ jobs:
           plugin_isocalendar: yes
           
       - uses: lowlighter/metrics@latest
-        name: Recently starred
+        name: Recently Starred
         with:
           filename: metrics/plugin.stars.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -96,7 +96,7 @@ jobs:
           plugin_fortune: yes
           
       - uses: lowlighter/metrics@latest
-        name: Midly interesting facts
+        name: Midly Interesting Facts
         with:
           filename: metrics/plugin.notable.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -107,13 +107,13 @@ jobs:
           #name: Midly interesting facts
 
       - uses: lowlighter/metrics@latest
-        name: Comic of the day
+        name: Comic of the Day
         with:
           filename: metrics.plugin.screenshot.svg
           token: NOT_NEEDED
           base: ""
           plugin_screenshot: yes
-          plugin_screenshot_title: Comic of the day
+          plugin_screenshot_title: Comic of the Day
           plugin_screenshot_url: https://xkcd.com
           plugin_screenshot_selector: "#comic img"
       
