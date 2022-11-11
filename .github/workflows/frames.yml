@@ -18,10 +18,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         name: Daily Horoscope
         with:
-          filename: metrics/plugin.horoscope.svg
+          filename: test.svg
           token: NOT_NEEDED
           base: ""
           plugin_screenshot: yes
-          plugin_screenshot_title: Daily Horoscope
+          plugin_screenshot_title: testing
           plugin_screenshot_url: http://www.vi-digital.com/cp/screen_demo.php?id=278816
           plugin_screenshot_selector: "iframe"
