@@ -3,11 +3,12 @@ on:
   # Schedule daily updates
   # each [] is the option we can set according to the info below.
   # [min (0-59)] [hour (0-23)] [day of month (1-31)] [month (1-12)] [day of week (0-6)]
-  schedule: [{cron: "0 12 * * *"}]
+  # 0 11 means its running at 6AM EST 
+  schedule: [{cron: "0 11 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master", "main"]}
+  push: {branches: ["master"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
