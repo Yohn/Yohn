@@ -8,7 +8,7 @@ on:
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
-  push: {branches: ["master"]}
+  push: {branches: ["Yohn-VI-Test-Frames"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
