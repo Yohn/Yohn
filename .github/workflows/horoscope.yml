@@ -1,7 +1,9 @@
 name: Metrics
 on:
   # Schedule daily updates
-  #schedule: [{cron: "0 0 * * *"}]
+  # each [] is the option we can set according to the info below.
+  # [min (0-59)] [hour (0-23)] [day of month (1-31)] [month (1-12)] [day of week (0-6)]
+  schedule: [{cron: "0 12 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -15,10 +17,10 @@ jobs:
       - uses: lowlighter/metrics@latest
         name: Daily Horoscope
         with:
-          filename: metrics.plugin.horoscope.svg
+          filename: metrics/plugin.horoscope.svg
           token: NOT_NEEDED
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Daily Horoscope
-          plugin_screenshot_url: https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-tomorrow.aspx?sign=10
+          plugin_screenshot_url: https://www.horoscope.com/us/horoscopes/general/horoscope-general-daily-today.aspx?sign=10
           plugin_screenshot_selector: ".main-horoscope nav + p"
