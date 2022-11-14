@@ -21,15 +21,15 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
     <!--a href="https://github.com/piyushsuthar/github-readme-quotes" title="Readme Quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a-->
     </td>
 </tr>
-  <tr>
+  <!--<tr>
     <td align="center" width="50%">
       <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
         <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile/1441372?theme=dark&website=true&location=true" alt="user:1441372's SO profile">
       </a>
     </td>
     <td align="center" width="50%"><img src="https://readme-jokes.vercel.app/api?hideborder&theme=gotham" alt="Jokes Card" /></td>
-  </tr>
-  <tr>
+  </tr>-->
+<tr>
     <td align="center" width="50%">
       <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics.plugin.notable.svg"></a>
       <a href="https://github.com/lowlighter/metrics"><img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.fortune.svg"></a>
