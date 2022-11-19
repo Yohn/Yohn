@@ -29,13 +29,6 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
     </td>
     <td align="center" width="50%"><img src="https://readme-jokes.vercel.app/api?hideborder&theme=gotham" alt="Jokes Card" /></td>
   </tr>-->
-<tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics.plugin.notable.svg"></a>
-      <a href="https://github.com/lowlighter/metrics"><img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.fortune.svg"></a>
-    </td>
-    <td align="center"><a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics/plugin.horoscope.svg"></a></td>
-  </tr>
   <tr>
     <td>
       <a href="https://git.io/streak-stats">
@@ -76,6 +69,13 @@ I've been coding for 17+ years but and never knew what this new "Source Control"
       <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics/plugin.default.example.svg"></a>
       </a>
     </td>
+  </tr>
+<tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics.plugin.notable.svg"></a>
+      <a href="https://github.com/lowlighter/metrics"><img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.fortune.svg"></a>
+    </td>
+    <td align="center"><a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics/plugin.horoscope.svg"></a></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
