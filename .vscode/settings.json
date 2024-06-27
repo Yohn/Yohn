@@ -33,5 +33,160 @@
 			"savePath": "/assets/css",
 			"savePathReplacementPairs": null
 		}
+	],
+	"better-comments.tags": [
+		{
+			"tag": "todo",
+			"color": "#FF8C00",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": true,
+			"bold": true,
+			"italic": false
+		},
+		{
+			"tag": "!",
+			"color": "#FE49FF",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "?",
+			"color": "#49E9FF",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "//",
+			"color": "#e7ffab",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": true
+		},
+		{
+			"tag": "*",
+			"color": "#dbff24",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "@",
+			"color": "#3DFF4F",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "+",
+			"color": "#c46bff",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "-",
+			"color": "#fc7b7d",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "#",
+			"color": "#32a852",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "^",
+			"color": "#00ffe9",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "~",
+			"color": "#6e9dd4",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "$",
+			"color": "#a9f097d0",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "%",
+			"color": "#f39dc8f8",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "&",
+			"color": "#291afaf8",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "=",
+			"color": "#fa1a5df8",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "_",
+			"color": "#1afaeff8",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		},
+		{
+			"tag": "|",
+			"color": "#fff6a5f8",
+			"backgroundColor": "transparent",
+			"strikethrough": false,
+			"underline": false,
+			"bold": false,
+			"italic": false
+		}
 	]
 }
