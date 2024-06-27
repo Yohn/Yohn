@@ -1,0 +1,37 @@
+{
+	"isGitignoreExtActive": true,
+	"workbench.colorCustomizations": {
+		"editor.lineHighlightBackground": "#242424",
+		"editor.selectionBackground": "#4e2407",
+		"editor.selectionHighlightBackground": "#1d2e01",
+		"editor.findMatchBackground": "#0d6e2d",
+		"editor.findMatchHighlightBackground": "#0e7530",
+		"editor.foldBackground": "#091303",
+		"editor.wordHighlightBackground": "#0e4291",
+		"editor.wordHighlightStrongBackground": "#49500a",
+		"minimap.background": "#00000000",
+		"scrollbar.shadow": "#00000000"
+	},
+	"liveSassCompile.settings.autoprefix": true,
+	"liveSassCompile.settings.excludeList": [
+		"/**/node_modules/**",
+	],
+	"liveSassCompile.settings.includeItems": [
+		"/assets/scss/site.scss"
+	],
+	"liveSassCompile.settings.showOutputWindowOn": "Trace",
+	"liveSassCompile.settings.formats": [
+		{
+			"format": "expanded",
+			"extensionName": ".auto.css",
+			"savePath": "/assets/css",
+			"savePathReplacementPairs": null
+		},
+		{
+			"format": "compressed",
+			"extensionName": ".auto.min.css",
+			"savePath": "/assets/css",
+			"savePathReplacementPairs": null
+		}
+	]
+}
