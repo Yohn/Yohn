@@ -1,0 +1,36 @@
+{
+  "dependencies": {
+    "@tkrotoff/bootstrap-floating-label": "0.12.2",
+    "bootstrap": "^5.3.3",
+    "bootswatch": "^5.3.3"
+	},
+  "copyFiles": [
+    {
+      "from": "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "to": "assets/vendor/js/bootstrap.bundle.min.js"
+    },
+    {
+      "from": "node_modules/bootstrap/dist/css/bootstrap.min.css",
+      "to": "assets/vendor/css/bootstrap.min.css"
+    }
+	],
+  "copyFilesSettings": {
+    "whenFileExists": "notify-about-available-change",
+    "addReferenceToSourceOfOrigin": true,
+    "ignoreDotFilesAndFolders": true,
+    "removeSourceMappingURL": true,
+    "minifyJs": false,
+    "minifyJsTerserOptions": {
+      "compress": {
+        "sequences": false
+      },
+      "mangle": false,
+      "format": {
+        "semicolons": false
+      }
+    }
+  },
+  "browserslist": [
+    "defaults"
+  ]
+}
