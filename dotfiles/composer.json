@@ -1,0 +1,26 @@
+{
+	"name": "yohn/dotfiles",
+	"description": "A good starting point for future projects",
+	"minimum-stability":"dev",
+	"license": "MIT",
+	"type": "project",
+	"require": {
+		"php": ">=8",
+		"myjw3b/core": "*",
+		"myjw3b/icons": "*",
+		"myjw3b/helpful": "*",
+		"myjw3b/php-bootstrap-form-class": "*",
+		"myjw3b/php-pdo-chainer": "*",
+		"myjw3b/language": "*",
+		"myjw3b/links": "dev-main".
+     "myjw3b/file-writing": "*"
+	},
+	"authors": [
+		{
+			"name": "John Brittain III",
+			"email": "Yohn@coming-soon.com",
+			"homepage": "https://github.com/Yohn",
+			"role": "Developer"
+		}
+	]
+}
