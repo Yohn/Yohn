@@ -12,8 +12,8 @@
 		"myjw3b/php-bootstrap-form-class": "*",
 		"myjw3b/php-pdo-chainer": "*",
 		"myjw3b/language": "*",
-		"myjw3b/links": "dev-main".
-     "myjw3b/file-writing": "*"
+		"myjw3b/links": "dev-main",
+    "myjw3b/file-writing": "*"
 	},
 	"authors": [
 		{
