@@ -1,0 +1,18 @@
+{
+	"recommendations": [
+		"formulahendry.code-runner",
+		"mrmlnc.vscode-autoprefixer",
+		"aaron-bond.better-comments",
+		"devsense.composer-php-vscode",
+		"kisstkondoros.vscode-gutter-preview",
+		"zainchen.json",
+		"ms-vscode.live-server",
+		"glenn2223.live-sass",
+		"elypia.magick-image-reader",
+		"kruemelkatze.vscode-dashboard",
+		"natizyskunk.sftp",
+		"developer2006.svg-gallery",
+		"benrogerswpg.transparent-minimap",
+		"geriyoco.vscode-image-gallery"
+	]
+}
