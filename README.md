@@ -6,9 +6,9 @@
 </td></tr></table>-->
 
 
-<p align="center">
+<!--<p align="center">
 <img src="https://raw.githubusercontent.com/Yohn/Yohn/snake/github-contribution-grid-snake-dark.svg">
-</p>
+</p>-->
 <table>
   <tr>
     <td colspan="2" align="center">
