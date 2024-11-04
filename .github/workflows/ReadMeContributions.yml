@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  # Schedule daily updates# each [] is the option we can set according to the info below.
+  # [min (0-59)] [hour (0-23)] [day of month (1-31)] [month (1-12)] [day of week (0-6)]
+  # 0 11 means its running at 6AM EST 
+  schedule: [{cron: "10 12 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        name: Half-year Calendar
+        with:
+          filename: metrics/plugin.half-year-isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
