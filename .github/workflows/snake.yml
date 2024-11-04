@@ -6,12 +6,11 @@ on:
     - cron: "0 */12 * * *"
 
   # allows to manually run the job at any time
-  workflow_dispatch:
-
+  #workflow_dispatch:
   # run on every push on the main branch
-  push:
-    branches:
-      - main
+  #push:
+   # branches:
+    #  - main
 
 jobs:
   generate:
