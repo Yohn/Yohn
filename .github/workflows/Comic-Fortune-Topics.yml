@@ -26,7 +26,7 @@ jobs:
           plugin_starlists_limit_languages: 8
           plugin_starlists_limit_repositories: 0
           
-      - uses: lowlighter/metrics@lates
+      - uses: lowlighter/metrics@latest
         name: Icons
         with:
           filename: metrics/plugin.topics.icons.svg
