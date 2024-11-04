@@ -14,6 +14,29 @@ jobs:
     permissions:
       contents: write
     steps:
+    
+      - uses: lowlighter/metrics@latest
+        name: Compact Display
+        with:
+          filename: metrics/plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: >-
+            polyglot, stargazer, sponsor, deployer, member, maintainer, developer,
+            scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+        
+      - uses: lowlighter/metrics@latest
+        name: Recently Starred
+        with:
+          filename: metrics/plugin.stars.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 5
+          
       - uses: lowlighter/metrics@latest
         name: Half-year Calendar
         with:
@@ -29,5 +52,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_notable: yes
-          plugin_notable_indepth: yes
-          plugin_notable_repositories: yes
+          plugin_notable_from: all
+          #plugin_notable_indepth: yes
+          plugin_notable_repositories: no
+          plugin_notable_types: commit,pull_request,issue
