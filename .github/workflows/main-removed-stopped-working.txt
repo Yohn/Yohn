@@ -1,3 +1,9 @@
+exit();
+quit();
+
+GITHUB ERROR if it tries to run :)
+Just keeping this for reference for now
+
 name: Metrics
 on:
   # Schedule daily updates# each [] is the option we can set according to the info below.
