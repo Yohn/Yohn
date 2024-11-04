@@ -8,20 +8,26 @@
 
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CharlesChiuGit/CharlesChiuGit/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CharlesChiuGit/CharlesChiuGit/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
 </p>
 <table>
+	<tr>
+		<td colspan="2" align="center">
+			<picture>
+				<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CharlesChiuGit/CharlesChiuGit/output/github-contribution-grid-snake-dark.svg">
+				<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CharlesChiuGit/CharlesChiuGit/output/github-contribution-grid-snake.svg">
+				<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+			</picture>
+		</td>
+	</tr>
   <tr>
     <td colspan="2" align="center">
     <!--<img src="https://activity-graph.herokuapp.com/graph?username=Yohn&theme=react-dark&hide_border=true&area=true">-->
-    <a href="https://github.com/piyushsuthar/github-readme-quotes" title="Readme Quotes"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula"></a>
-			<img src="github-metrics.svg">
-    </td>
-</tr>
+    	<a href="https://github.com/piyushsuthar/github-readme-quotes" title="Readme Quotes"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dracula"></a>
+		</td>
+	</tr>
+  <tr>
+    <td colspan="2" align="center"><img src="github-metrics.svg"></td>
+	</tr>
   <!--<tr>
     <td align="center" width="50%">
       <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
@@ -74,13 +80,13 @@
 <tr>
     <td align="center" width="50%">
       <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics.plugin.notable.svg"></a>
-      <a href="https://github.com/lowlighter/metrics"><img src="https://github.com/Yohn/Yohn/raw/main/metrics/plugin.fortune.svg"></a>
+      <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/refs/heads/main/metrics/plugin.fortune.svg"></a>
     </td>
     <td align="center"><a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics/plugin.horoscope.svg"></a></td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/main/metrics.plugin.screenshot.svg"></a>
+      <a href="https://github.com/lowlighter/metrics"><img src="https://raw.githubusercontent.com/Yohn/Yohn/refs/heads/main/metrics/plugin.screenshot.comic.svg"></a>
     </td>
   </tr>
 </table>
