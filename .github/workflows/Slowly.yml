@@ -1,8 +1,10 @@
 # Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: One at a time - Metrics
+name: No Token Needed - Metrics
 on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "10 5 * * *"}]
+  # Schedule daily updates# each [] is the option we can set according to the info below.
+  # [min (0-59)] [hour (0-23)] [day of month (1-31)] [month (1-12)] [day of week (0-6)]
+  # 0 11 means its running at 6AM EST 
+  schedule: [{cron: "10 4 * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
@@ -13,24 +15,21 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
+        name: Comic of the Day
         with:
-          # Your GitHub token
-          # The following scopes are required:
-          #  - public_access (default scope)
-          # The following additional scopes may be required:
-          #  - read:org      (for organization related metrics)
-          #  - read:user     (for user related data)
-          #  - read:packages (for some packages related data)
-          #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          # Options
-          user: Yohn
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/New_York
-          # Furtune Cookie
+          filename: metrics/plugin.screenshot.comic.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Comic of the Day
+          plugin_screenshot_url: https://xkcd.com
+          plugin_screenshot_selector: "#comic img"
+          
+      - name: Fortune
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/plugin.fortune.svg
+          token: NOT_NEEDED
+          base: ""
           plugin_fortune: yes
-          # half calendar thing
-          plugin_isocalendar: yes
-
+          
