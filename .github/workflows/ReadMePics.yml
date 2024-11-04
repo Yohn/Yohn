@@ -14,6 +14,26 @@ jobs:
     permissions:
       contents: write
     steps:
+      - uses: lowlighter/metrics@latest
+        name: Random Habit Facts 
+        with:
+          filename: metrics/plugin.habits.facts.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: no
+          config_timezone: America/New_York
+          
+      - name: Opened by Yohn
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/plugin.followup.user.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_followup: yes
+          plugin_followup_sections: user
+          plugin_followup_indepth: yes
     
       - uses: lowlighter/metrics@latest
         name: Compact Display
@@ -48,11 +68,19 @@ jobs:
       - uses: lowlighter/metrics@latest
         name: Midly Interesting Facts
         with:
-          filename: metrics/plugin.notable.indepth.svg
+          filename: metrics/plugin.notable.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_notable: yes
           plugin_notable_from: all
           #plugin_notable_indepth: yes
           plugin_notable_repositories: no
-          plugin_notable_types: commit,pull_request,issue
+          plugin_notable_types: commit,pull_request
+          
+      #- uses: lowlighter/metrics@latest
+      #  name: Contributions
+      #  with:
+      #    filename: metrics.plugin.notable.svg
+      #    token: ${{ secrets.METRICS_TOKEN }}
+      #    base: ""
+      #    plugin_notable: yes
