@@ -18,7 +18,7 @@
   <tr>
     <td colspan="2" align="center">
     <!--<img src="https://activity-graph.herokuapp.com/graph?username=Yohn&theme=react-dark&hide_border=true&area=true">-->
-    <a href="https://github.com/piyushsuthar/github-readme-quotes" title="Readme Quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"></a>
+    <a href="https://github.com/piyushsuthar/github-readme-quotes" title="Readme Quotes"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"></a>
 			<img src="github-metrics.svg">
     </td>
 </tr>
