@@ -29,12 +29,12 @@ jobs:
       - uses: lowlighter/metrics@lates
         name: Icons
         with:
-            filename: metrics/plugin.topics.icons.svg
-            token: NOT_NEEDED
-            base: ""
-            plugin_topics: yes
-            plugin_topics_limit: 15
-            plugin_topics_mode: icons
+          filename: metrics/plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 15
+          plugin_topics_mode: icons
             
       - uses: lowlighter/metrics@latest
         name: Comic of the Day
