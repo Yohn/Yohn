@@ -23,7 +23,7 @@
                                 </svg>
                                 🤖 AI
                             </h2>
-                            <div class="count">9 repositories</div>
+                            <div class="count">10 repositories</div>
                             <div class="description"></div>
                             <div class="languages">
                                 <div class="row">
@@ -32,9 +32,9 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="210" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="210" y="0" width="140" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="349.99999999999994" y="0" width="70" height="8" fill="#4f5d95"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="240" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="240" y="0" width="120" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="360" y="0" width="60" height="8" fill="#4f5d95"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -47,8 +47,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>33.33%</div>
-                                                <div>3★</div>
+                                                <div>40%</div>
+                                                <div>4★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -59,7 +59,7 @@
                                                 PHP
                                             </div>
                                             <small>
-                                                <div>11.11%</div>
+                                                <div>10%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -73,7 +73,7 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>22.22%</div>
+                                                <div>20%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
