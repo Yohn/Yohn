@@ -23,7 +23,7 @@
                                 </svg>
                                 🤖 AI
                             </h2>
-                            <div class="count">20 repositories</div>
+                            <div class="count">21 repositories</div>
                             <div class="description"></div>
                             <div class="languages">
                                 <div class="row">
@@ -32,11 +32,11 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="140" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="140" y="0" width="140" height="8" fill="#4f5d95"/>
-                                        <rect mask="url(#languages-bar)" x="280" y="0" width="84" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="364" y="0" width="28" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="392" y="0" width="28" height="8" fill="#89e051"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="157.5" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="157.5" y="0" width="131.25" height="8" fill="#4f5d95"/>
+                                        <rect mask="url(#languages-bar)" x="288.75" y="0" width="78.75" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="367.5" y="0" width="26.25" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="393.75" y="0" width="26.25" height="8" fill="#89e051"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -49,8 +49,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>25%</div>
-                                                <div>5★</div>
+                                                <div>28.57%</div>
+                                                <div>6★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -61,7 +61,7 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>15%</div>
+                                                <div>14.29%</div>
                                                 <div>3★</div>
                                             </small>
                                         </div>
@@ -73,7 +73,7 @@
                                                 Shell
                                             </div>
                                             <small>
-                                                <div>5%</div>
+                                                <div>4.76%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -87,7 +87,7 @@
                                                 PHP
                                             </div>
                                             <small>
-                                                <div>25%</div>
+                                                <div>23.81%</div>
                                                 <div>5★</div>
                                             </small>
                                         </div>
@@ -99,7 +99,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>5%</div>
+                                                <div>4.76%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
