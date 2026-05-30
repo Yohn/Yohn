@@ -125,9 +125,10 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="252" height="8" fill="#4f5d95"/>
-                                        <rect mask="url(#languages-bar)" x="252" y="0" width="84" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="336" y="0" width="84" height="8" fill="#e34c26"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="210" height="8" fill="#4f5d95"/>
+                                        <rect mask="url(#languages-bar)" x="210" y="0" width="70" height="8" fill="#fcb32c"/>
+                                        <rect mask="url(#languages-bar)" x="280" y="0" width="70" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="349.99999999999994" y="0" width="70" height="8" fill="#e34c26"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -147,9 +148,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                HTML
+                                                JavaScript
                                             </div>
                                             <small>
                                                 <div>16.67%</div>
@@ -161,9 +162,21 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#fcb32c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                JavaScript
+                                                MDX
+                                            </div>
+                                            <small>
+                                                <div>16.67%</div>
+                                                <div>1★</div>
+                                            </small>
+                                        </div>
+                                        <div class="field language details">
+                                            <div class="field">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                HTML
                                             </div>
                                             <small>
                                                 <div>16.67%</div>
